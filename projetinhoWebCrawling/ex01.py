@@ -1,7 +1,7 @@
 import requests 
 import re
 
-url = 'https://www.terra.com.br/noticias/brasil/cidades/tentativa-de-assalto-termina-em-tiroteio-na-regiao-da-faria-lima-em-sp-suspeito-e-preso,538127ea1c356f5265ab60a6b9f351337opnqwnt.html'
+url = 'https://metodoaplicado.com.br/conhecimentos-especificos-concurso-nacional-unificado-2024-bloco-5-questoes-comentadas/'
 check = []
 
 r = requests.get(url)
