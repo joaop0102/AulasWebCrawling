@@ -32,3 +32,9 @@ p {
     color: red;
     font-weight: 700;
 }
+
+#value{
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
